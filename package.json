@@ -1,0 +1,24 @@
+{
+  "name": "bin2decapp",
+  "version": "0.0.1",
+  "description": "module that converts binary numbers to decimal",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/viniciuspdasilva/binarytodecimal.git"
+  },
+  "keywords": [
+    "npm",
+    "binary",
+    "decimal"
+  ],
+  "author": "Vinicius Pereira da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciuspdasilva/binarytodecimal/issues"
+  },
+  "homepage": "https://github.com/viniciuspdasilva/binarytodecimal#readme"
+}
